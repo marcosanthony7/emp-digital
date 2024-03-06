@@ -1,0 +1,12 @@
+Projeto de Empreendedorismo Digital
+
+Problema: Falta de conhecimento de algumas pessoas em relação as qualidades das peças de computadores e também aos preços, na capacidade de encontrar o que necessita e que esteja dentro do seu orçamento.
+
+Solução: Filtro de itens e informações que vão realizar um cálculo de acordo com o orçamento do cliente. Além disso, atendentes reais (pessoas físicas) para sugerir e indicar os melhores caminhos para o cliente seguir, em relação a compra/montagem de um computador, caso o filtro não possua informações suficientes.
+
+Proposta de Valor (Produto/Serviço): Aplicativo que filtra itens e informações com a realização de um cálculo de acordo com o orçamento do cliente, também com consultas pagas, sejam elas para orçamentos ou para técnico.
+
+Atendimento particular/físico (caso o cliente prefira ou não confie totalmente no aplicativo): 
+* Consulta particular/física orçamento: R$ 20,00
+* Consulta particular/física técnico: R$ 100,00
+* Consulta particular/física montagem: R$ 150,00
